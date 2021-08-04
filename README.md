@@ -1,4 +1,4 @@
-# this is my programming models Growth of Microalgae  }
+# this is my programming models Growth of Microalgae  
 
 Topic 1.
 
