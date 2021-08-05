@@ -8,3 +8,6 @@ Topic 1.
   This is an iterative programming that suggests the user to enter data and export the estimates calculated 
   by the mathematical models used. In this section you can obtain the graphs estimated by 
   the models and the data calculated for the creation of the graphs if the user so wishes.
+  
+  however, the code is still lacking compared to the one developed in Matlab. The code continues to be developed 
+  so that it is closer to more types of language and contribute to the development of the study
