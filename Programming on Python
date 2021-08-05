@@ -1,0 +1,10 @@
+This is my programming models Growth of Microalgae
+All the files (.py) were programmed in Python 3.9
+
+Topic 1.
+
+# In the first document (Programming Growth Model microalgae) Is the programming of the proposed equations mentioned 
+  in the article "A novel Phenomenological Model of Light that Predicts the Growth of Microalgae" is exposed
+  This is an iterative programming that suggests the user to enter data and export the estimates calculated 
+  by the mathematical models used. In this section you can obtain the graphs estimated by 
+  the models and the data calculated for the creation of the graphs if the user so wishes.
